@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/17 10:22:41.000.600,=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 09:09:37.000.191,=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/19 10:55:24.000.469,=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 08:31:44.000.006,=emsserverapi.dcp</Transaction>
+    <Transaction>2024/01/21 08:31:44.000.188,=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 11:44:35.750,=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 11:52:32.763,C:\Fontes\rafael\FreeWork\src\View\View.Principal.pas=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 11:52:32.763,C:\Fontes\rafael\FreeWork\src\View\View.Principal.dfm=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/21 11:52:44.728,C:\Fontes\rafael\FreeWork\src\FreeWorkV1.dproj=C:\Users\conec\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/01/21 12:10:56.564,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:11:35.595,C:\Fontes\rafael\FreeWork\src\Model\Model.Empresas.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:11:44.939,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:11:58.704,C:\Fontes\rafael\FreeWork\src\Model\Model.Vagas.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:12:04.913,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:12:17.076,C:\Fontes\rafael\FreeWork\src\Model\Model.FreeLancers.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:13:58.056,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:15:10.606,C:\Fontes\rafael\FreeWork\src\View\View.Empresas.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:15:10.606,C:\Fontes\rafael\FreeWork\src\View\View.Empresas.dfm=C:\Fontes\rafael\FreeWork\src\Unit1.dfm</Transaction>
+    <Transaction>2024/01/21 12:15:31.212,=C:\Fontes\rafael\FreeWork\src\Unit2.pas</Transaction>
+    <Transaction>2024/01/21 12:16:51.974,C:\Fontes\rafael\FreeWork\src\View\View.Vagas.dfm=C:\Fontes\rafael\FreeWork\src\Unit2.dfm</Transaction>
+    <Transaction>2024/01/21 12:16:51.974,C:\Fontes\rafael\FreeWork\src\View\View.Vagas.pas=C:\Fontes\rafael\FreeWork\src\Unit2.pas</Transaction>
+    <Transaction>2024/01/21 12:17:05.325,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:17:51.761,C:\Fontes\rafael\FreeWork\src\View\View.FreeLancers.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:17:51.761,C:\Fontes\rafael\FreeWork\src\View\View.FreeLancers.dfm=C:\Fontes\rafael\FreeWork\src\Unit1.dfm</Transaction>
+    <Transaction>2024/01/21 12:18:04.332,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:18:41.391,C:\Fontes\rafael\FreeWork\src\Interfaces\Interfaces.Empresas.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:19:35.563,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:20:18.574,C:\Fontes\rafael\FreeWork\src\View\ViewContasaReceber.dfm=C:\Fontes\rafael\FreeWork\src\Unit1.dfm</Transaction>
+    <Transaction>2024/01/21 12:20:18.574,C:\Fontes\rafael\FreeWork\src\View\ViewContasaReceber.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:21:19.718,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:21:29.736,C:\Fontes\rafael\FreeWork\src\Model\Model.ContasaReceber.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:21:44.325,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:21:57.866,C:\Fontes\rafael\FreeWork\src\Interfaces\Interfaces.FreeLancers.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:22:10.519,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:22:24.138,C:\Fontes\rafael\FreeWork\src\Interfaces\Interfaces.Vagas.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:22:33.569,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:22:58.533,C:\Fontes\rafael\FreeWork\src\Interfaces\Interfaces.ContasaReceber.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:25:29.045,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:26:16.154,C:\Fontes\rafael\FreeWork\src\View\View.ContasaPagar.dfm=C:\Fontes\rafael\FreeWork\src\Unit1.dfm</Transaction>
+    <Transaction>2024/01/21 12:26:16.154,C:\Fontes\rafael\FreeWork\src\View\View.ContasaPagar.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:26:28.015,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:26:38.163,C:\Fontes\rafael\FreeWork\src\Model\Model.ContasaPagar.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:26:47.399,=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+    <Transaction>2024/01/21 12:27:03.426,C:\Fontes\rafael\FreeWork\src\Interfaces\Interfaces.ContasaPagar.pas=C:\Fontes\rafael\FreeWork\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

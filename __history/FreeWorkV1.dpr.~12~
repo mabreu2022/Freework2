@@ -1,0 +1,28 @@
+program FreeWorkV1;
+
+uses
+  Vcl.Forms,
+  View.Principal in 'View\View.Principal.pas' {FrmPrincipal},
+  Model.Empresas in 'Model\Model.Empresas.pas',
+  Model.Vagas in 'Model\Model.Vagas.pas',
+  Model.FreeLancers in 'Model\Model.FreeLancers.pas',
+  View.Empresas in 'View\View.Empresas.pas' {FrmEmpresas},
+  View.Vagas in 'View\View.Vagas.pas' {FrmVagas},
+  View.FreeLancers in 'View\View.FreeLancers.pas' {FrmFreeLancers},
+  Interfaces.Empresas in 'Interfaces\Interfaces.Empresas.pas',
+  ViewContasaReceber in 'View\ViewContasaReceber.pas' {FrmContasaReceber},
+  Model.ContasaReceber in 'Model\Model.ContasaReceber.pas',
+  Interfaces.FreeLancers in 'Interfaces\Interfaces.FreeLancers.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.CreateForm(TFrmEmpresas, FrmEmpresas);
+  Application.CreateForm(TFrmVagas, FrmVagas);
+  Application.CreateForm(TFrmFreeLancers, FrmFreeLancers);
+  Application.CreateForm(TFrmContasaReceber, FrmContasaReceber);
+  Application.Run;
+end.
