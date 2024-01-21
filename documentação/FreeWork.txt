@@ -1,0 +1,27 @@
+Prováveis Nomes: FreeWork
+
+
+plataforma para empregos freelance
+
+empresas cadastram vagas freelance
+
+áreas diversas, com cnpj
+
+usuario se cadastram e pesquisam e se candidatam a vagas
+
+
+Software Windows
+Cadastros de Empresas
+1)Podem se cadastrar free.
+2)Cadastrar Vagas com Salário ofertado, tipo de vaga,se tem Vale transporte e valor
+3)Pesquisar se houve candidatos a vaga 
+
+
+Cadastro de usuarios APP Android Grátis
+1)Se cadastrar
+2)Pesquisar e se candidatar a vagas
+
+
+Nossa empresa ganharia um percentual 
+como garantir esse pagto
+como dar saida do dinheiro a pessoa que se candidatou?
