@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{032FB194-1149-43EC-A673-9165C7CA58EF}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="FreeWorkV1.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Mobile\Work24hMobile.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FreeWorkV1">
+        <MSBuild Projects="FreeWorkV1.dproj"/>
+    </Target>
+    <Target Name="FreeWorkV1:Clean">
+        <MSBuild Projects="FreeWorkV1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FreeWorkV1:Make">
+        <MSBuild Projects="FreeWorkV1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Work24hMobile">
+        <MSBuild Projects="Mobile\Work24hMobile.dproj"/>
+    </Target>
+    <Target Name="Work24hMobile:Clean">
+        <MSBuild Projects="Mobile\Work24hMobile.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Work24hMobile:Make">
+        <MSBuild Projects="Mobile\Work24hMobile.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FreeWorkV1;Work24hMobile"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FreeWorkV1:Clean;Work24hMobile:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FreeWorkV1:Make;Work24hMobile:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
